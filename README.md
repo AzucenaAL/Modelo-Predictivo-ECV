@@ -1,9 +1,7 @@
 **MODELO PREDICTIVO DE ENFERMEDAD CARDIOVASCULAR**
 
-[![ataque corazón](https://cdn.pixabay.com/photo/2022/09/25/21/31/heart-attack-7479253_1280.jpg "ataque corazón")](https://cdn.pixabay.com/photo/2022/09/25/21/31/heart-attack-7479253_1280.jpg "ataque corazón")
-
 **Contexto**
-*Cada año, más personas mueren por enfermedades cardiovasculares que por cualquier otra causa. Más de tres cuartas partes de estas muertes se producen en países de bajos y medianos ingresos, donde los casos siguen aumentando [OPS, 2021][OPS].*
+Cada año, más personas mueren por enfermedades cardiovasculares que por cualquier otra causa. Más de tres cuartas partes de estas muertes se producen en países de bajos y medianos ingresos, donde los casos siguen aumentando [OPS, 2021][OPS].
 
 El manejo de uno de los mayores problemas de salud pública, sin lugar a dudas, representa un gran desafío tanto a nivel local como global. Existe una gran diferencia en relación al gasto de recursos, tanto materiales como humanos y técnicos, dependiendo del momento (etapa de prevención vs. tratamiento y rehabilitación) en el que se realice la pesquisa y la magnitud de la población que podemos abarcar. En este sentido, las herramientas con las que contamos actualmente permitirían intervenir de manera más precoz y alcanzar a una mayor población objetivo. En este escenario, los organismos encargados de la gestión de dichos recursos se beneficiarían al contar con herramientas de apoyo para la toma de estas decisiones.
 
