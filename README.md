@@ -1,5 +1,7 @@
 **MODELO PREDICTIVO DE ENFERMEDAD CARDIOVASCULAR**
 
+![Imagen corazón](https://raw.githubusercontent.com/AzucenaAL/Modelo-Predictivo-ECV/photo/photo/heart_attack.jpg "Heart Attack")
+
 **Contexto**
 Cada año, más personas mueren por enfermedades cardiovasculares que por cualquier otra causa. Más de tres cuartas partes de estas muertes se producen en países de bajos y medianos ingresos, donde los casos siguen aumentando [OPS, 2021][OPS].
 
